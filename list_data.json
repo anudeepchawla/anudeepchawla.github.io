@@ -3,7 +3,8 @@
 		{
 			"Title": "Squid Game",
 			"logoLocation": "SG.png",
-			"Genre": "Action, Mystery, Survival, Drama, Thriller, Horror fiction, Action fiction",
+			"Genre": "Action",
+					"Mystery, Survival, Drama, Thriller, Horror fiction, Action fiction",
 			"About the show":"Squid Game is a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix. Its cast includes Lee Jung-jae, Park Hae-soo, Wi Ha-joon, HoYeon Jung, O Yeong-su, Heo Sung-tae, Anupam Tripathi, and Kim Joo-ryoung.",
 			"Rating": "R",
 			"Year": "2021"
