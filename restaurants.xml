@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<root>
+<roots>
   <restaurants>
     <id>0</id>
     <name>Kabana</name>
@@ -24,4 +24,4 @@
     <open>9am</open>
     <close>3pm</close>
   </restaurants>
-</root>
+</roots>
