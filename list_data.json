@@ -2,7 +2,7 @@
 	"Korean Drama": [
 		{
 			"Title": "Squid Game",
-			"Genre": "Action,Mystery, Survival, Drama, Thriller, Horror fiction, Action fiction",
+			"Genre": "Action, Mystery, Survival, Drama, Thriller, Horror fiction, Action fiction",
 			"About the show":"Squid Game is a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix. Its cast includes Lee Jung-jae, Park Hae-soo, Wi Ha-joon, HoYeon Jung, O Yeong-su, Heo Sung-tae, Anupam Tripathi, and Kim Joo-ryoung.",
 			"Rating": "R",
 			"Year": "2021"
@@ -16,7 +16,7 @@
 		},
 		{
 			"Title": "Crash Landing On You",
-			"Genre":"Romantic Shit",
+			"Genre":"Romantic, Comedy"
 			"About the Show": "Crash Landing on You is a 2019–2020 South Korean television series written by Park Ji-eun, directed by Lee Jeong-hyo and starring Hyun Bin, Son Ye-jin, Seo Ji-hye and Kim Jung-hyun.",
 			"Rating": "R",
 			"Year": "2019"
